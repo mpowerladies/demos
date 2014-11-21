@@ -1,2 +1,3 @@
 Code from demos used during our MPL meetings.
-Please save in subdirectories as topic_date, eg html_14Nov2014
+
+For ease of use, please keep your demo code in a subdirectory using the following naming scheme: topic_date, eg html_14-11-2014
